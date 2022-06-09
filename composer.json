@@ -1,0 +1,50 @@
+{
+    "name": "justoverclock/broken-links-checker",
+    "description": "Check for broken links inside posts",
+    "keywords": [
+        "broken links checker"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.3.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Broken Links",
+            "category": "features",
+            "icon": {
+                "name": "fas fa-unlink",
+                "color": "red",
+                "backgroundColor": "white"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": false,
+                "forum": true,
+                "js": true,
+                "jsCommon": false,
+                "css": true,
+                "locale": true,
+                "gitConf": true,
+                "githubActions": false,
+                "prettier": true,
+                "typescript": false,
+                "bundlewatch": true,
+                "backendTesting": false,
+                "editorConfig": true,
+                "styleci": true
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
