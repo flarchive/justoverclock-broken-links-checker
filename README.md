@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of justoverclock/broken-links-checker.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/broken-links-checker) or the [upstream repository](https://github.com/justoverclockl/broken-links-checker).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.3.0`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.3.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-06-09 | `^1.3.0` | [Browse](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-06-09 | `^1.3.0` | [Browse](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-06-22 | `^1.3.0` | [Browse](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.2) |
+| `0.1.3` | 2023-02-18 | `^1.3.0` | [Browse](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.3) |
+| `0.1.4` | 2023-02-19 | `^1.3.0` | [Browse](https://github.com/flarchive/justoverclock-broken-links-checker/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/justoverclock-broken-links-checker.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-broken-links-checker.json)
 
